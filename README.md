@@ -1,5 +1,6 @@
+![Animated GIF](file:///C:/Users/karim/Downloads/Neon%20Glitch%20Twitch%20Banner%20%20(1).mp4)
 <h1 align="center">Hi <i class="fi fi-ts-circle-small"></i>, I'm ELFA</h1>
-<h3 align="center">A passionnante frontend développer frome Morocco</h3>
+<h3 align="center">A backend développer frome Morocco</h3>
 <img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimtz999&label=Profile%20views&color=0e75b6&style=flat" alt="karimtz999" /> </p>
 
@@ -24,3 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karimtz999&show_icons=true&locale=en&layout=compact" alt="karimtz999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karimtz999&show_icons=true&locale=en" alt="karimtz999" /></p>
+
