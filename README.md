@@ -8,6 +8,13 @@
     <p>I'm a Software Engineer specializing in Backend Development and Cloud Operations. I enjoy solving complex problems, learning new technologies, and aspiring to be a DevOps Engineer.</p>
 </div>
 <div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=800&lines=Hey..+I'm+Abdelkarim;Welcome+to+my+GitHub!;Aspiring+DevOps+Engineer;Exploring+Cloud+Technologies;Lifelong+Learner!" alt="Typing SVG"/>
+    </h1>
+</div>
+
+
+<div align="center">
     <!-- Programming Languages -->
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
