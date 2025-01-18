@@ -7,10 +7,6 @@
     <h2>🚀 About Me</h2>
     <p>I'm a Software Engineer specializing in Backend Development and Cloud Operations. I enjoy solving complex problems, learning new technologies, and aspiring to be a DevOps Engineer.</p>
 </div>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/karimtz999/karimtz999/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
-
 
 <div align="center">
     <!-- Programming Languages -->
