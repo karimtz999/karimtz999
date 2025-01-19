@@ -1,10 +1,10 @@
 # Hey there :wave:  
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" width="100%">
+<img src="https://raw.githubusercontent.com/karimtz999/karimtz999/master/resources/banner.png" alt="Hello world" width="100%">
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/karimtz999/count.svg" />
 </p>
 
 ## About me  
