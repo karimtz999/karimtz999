@@ -2,12 +2,18 @@
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=800080&center=true&vCenter=true&width=800&lines=Hey..+I'm+RX..+Abdelkarim;Welcome+to+my+GitHub!;I'm+a+Software+Engineer;Familiar+with+Cloud+Operations;Aspiring+to+be+a+DevOps+Engineer!;Do+not+judge+me+by+success;Judge+me+by+how+many+times+I+fell;And+got+back+up+again!" alt="Typing SVG"/>
+ <div align="center">
+    <h1 style="font-size: 4em; background: linear-gradient(to right, #32CD32, #228B22); -webkit-background-clip: text; color: transparent; text-stroke: 2px #006400;">
+        🚀 About Me
     </h1>
+    <h2 style="font-size: 3em; color: #32CD32; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5), 0 0 25px #32CD32, 0 0 5px #32CD32;">
+        🚀 About Me
+    </h2>
+    <p style="font-size: 1.2em; background: linear-gradient(to right, #32CD32, #228B22); -webkit-background-clip: text; color: transparent; text-stroke: 1px #006400;">
+        I'm a Software Engineer specializing in Backend Development and Cloud Operations. I enjoy solving complex problems, learning new technologies, and aspiring to be a DevOps Engineer.
+    </p>
 </div>
-<div align="center">
-    <h2>🚀 About Me</h2>
-    <p>I'm a Software Engineer specializing in Backend Development and Cloud Operations. I enjoy solving complex problems, learning new technologies, and aspiring to be a DevOps Engineer.</p>
-</div>
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
