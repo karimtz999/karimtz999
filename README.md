@@ -1,19 +1,20 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=800080&center=true&vCenter=true&width=800&lines=Hey..+I'm+RX..+Abdelkarim;Welcome+to+my+GitHub!;I'm+a+Software+Engineer;Familiar+with+Cloud+Operations;Aspiring+to+be+a+DevOps+Engineer!;Do+not+judge+me+by+success;Judge+me+by+how+many+times+I+fell;And+got+back+up+again!" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=60&duration=3000&color=800080&center=true&vCenter=true&width=800&lines=Hey..+I'm+RX..+Abdelkarim;Welcome+to+my+GitHub!;I'm+a+Software+Engineer;Familiar+with+Cloud+Operations;Aspiring+to+be+a+DevOps+Engineer!;Do+not+judge+me+by+success;Judge+me+by+how+many+times+I+fell;And+got+back+up+again!" alt="Typing SVG"/>
     </h1>
 
 <div align="center">
-        <h2 style="font-size: 3em; color: #32CD32; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5), 0 0 25px #32CD32, 0 0 5px #32CD32; font-style: italic; font-weight: bold; font-family: 'Roboto', sans-serif;">
-            🚀 About Me
+        <h2 style="font-size: 3.5em; color: #32CD32; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5), 0 0 25px #32CD32, 0 0 5px #32CD32; font-weight: bold; font-family: 'Roboto', sans-serif;">
+            🚀 **About Me**
         </h2>
-        <p style="font-size: 1.2em; background: linear-gradient(to right, #32CD32, #228B22); -webkit-background-clip: text; color: transparent; text-stroke: 1px #006400; font-style: italic; font-weight: bold; font-family: 'Roboto', sans-serif;">
-            I'm a Software Engineer specializing in Backend Development and Cloud Operations. I enjoy solving complex problems, learning new technologies, and aspiring to be a DevOps Engineer.
+        <p style="font-size: 1.5em; background: linear-gradient(to right, #32CD32, #228B22); -webkit-background-clip: text; color: transparent; text-stroke: 1px #006400; font-weight: bold; font-family: 'Roboto', sans-serif;">
+            **I'm a Software Engineer specializing in Backend Development and Cloud Operations. I enjoy solving complex problems, learning new technologies, and aspiring to be a DevOps Engineer.**
         </p>
     </div>
 
-<h2>🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+    
+<h2 style="font-size: 2.5em; font-weight: bold;">🚀 &nbsp;**Some Tools I Have Used and Learned**</h2>
+    <p align="left" style="font-size: 1.5em; font-weight: bold;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="45" height="45"/>
@@ -39,4 +40,5 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimtz999&theme=github_dark" alt="Abdelkarim's GitHub Stats"/>
 </div>
+
 
