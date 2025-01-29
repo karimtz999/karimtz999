@@ -6,10 +6,8 @@
     <h1 style="font-size: 4em; background: linear-gradient(to right, #32CD32, #228B22); -webkit-background-clip: text; color: transparent; text-stroke: 2px #006400;">
         🚀 About Me
     </h1>
-    <h2 style="font-size: 3em; color: #32CD32; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5), 0 0 25px #32CD32, 0 0 5px #32CD32;">
-        🚀 About Me
-    </h2>
-    <p style="font-size: 1.2em; background: linear-gradient(to right, #32CD32, #228B22); -webkit-background-clip: text; color: transparent; text-stroke: 1px #006400;">
+    
+<p style="font-size: 1.2em; background: linear-gradient(to right, #32CD32, #228B22); -webkit-background-clip: text; color: transparent; text-stroke: 1px #006400;">
         I'm a Software Engineer specializing in Backend Development and Cloud Operations. I enjoy solving complex problems, learning new technologies, and aspiring to be a DevOps Engineer.
     </p>
 </div>
