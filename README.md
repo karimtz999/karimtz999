@@ -6,7 +6,7 @@
 
 
     
-<h2 style="font-size: 2.5em; font-weight: bold;">🚀 &nbsp;**Some Tools I Have Used and Learned**</h2>
+<h2 style="font-size: 2.5em; font-weight: bold;">🚀 &nbsp;Some Tools I Have Used and Learned</h2>
     <p align="left" style="font-size: 1.5em; font-weight: bold;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/>
