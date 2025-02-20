@@ -1,6 +1,5 @@
-<div align="center">
-    <img src="https://media.tenor.com/XtJzUJ9HhE0AAAAC/hacker-man-hacker.gif" width="500"/>
-</div>
+![Hacker Man](https://raw.githubusercontent.com/karimtz999/hackeMan.gif/main/hacker-man.gif)
+
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=800080&center=true&vCenter=true&width=800&lines=Hey..+I'm+RX..+Abdelkarim;Welcome+to+my+GitHub" width="800"/>
 </h1>
