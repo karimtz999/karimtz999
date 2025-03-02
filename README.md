@@ -34,8 +34,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/>
 
 </p>
-
 <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimtz999&theme=github-dark-blue" alt="GitHub Streak Stats" align="left"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimtz999&theme=github_dark" alt="Abdelkarim's GitHub Stats"/>
 </div>
+
 
