@@ -35,6 +35,6 @@
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimtz999&theme=github-dark-blue" alt="GitHub Streak Stats" height="300"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimtz999&theme=github-dark-blue" alt="GitHub Streak Stats" height="400"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimtz999&theme=github_dark" alt="Abdelkarim's GitHub Stats" height="130"/>
 </div>
