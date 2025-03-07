@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/EJS_logo.svg" alt="EJS" width="50" height="50"/>
+    <img src="./assets/OIP.jpeg" alt="EJS" width="50" height="50"/>
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
