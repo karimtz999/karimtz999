@@ -1,9 +1,9 @@
-![Hacker Man](https://raw.githubusercontent.com/karimtz999/karimtz999/main/hackerMan.gif)
 
 
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com font=Jetbrains+mono&size=40&duration=3000&color=800080&center=true&vCenter=true&width=800&lines=Hey..+I'm+RX..+Abdelkarim;Welcome+to+my+GitHub" width="800"/>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ELFA+-+JS+%26+Python+Backend+Dev;Web2+Specialist+%7C+Now+Studying+Web3;Building+the+Future+of+the+Web+%F0%9F%9A%80" />
+</p>
+
 
 <img src="https://media.tenor.com/XtJzUJ9HhE0AAAAC/hacker-man-hacker.gif" width="500"/>
 
