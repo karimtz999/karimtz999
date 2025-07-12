@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+ELFA+-+JS+%26+Python+Backend+Dev;Web2+Specialist+%7C+Now+Studying+Web3;Building+the+Future+of+the+Web+%F0%9F%9A%80" />
 </p>
