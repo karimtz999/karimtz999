@@ -64,8 +64,8 @@ Hi! I'm **ELFA**, a passionate **Backend Developer** with strong command over **
 ### 📫 &nbsp;Let's Connect
 
 - 🔗 GitHub: [karimtz999](https://github.com/karimtz999)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](#) <!-- Replace with actual link -->
-- 🌍 Portfolio: [yourdomain.com](#) <!-- Optional -->
+- 💼 LinkedIn: [https://www.linkedin.com/in/abdelkarim-elfar-b89a9a275/](#) 
+- 🌍 Portfolio: [domain.com](#) 
 
 ---
 
