@@ -3,11 +3,11 @@
 <p align="center">
   <marquee direction="up" scrollamount="3" height="400">
     <!-- Web3 -->
-    <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=025" alt="Bitcoin" width="45"/>
-    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=025" alt="Ethereum" width="45"/>
-    <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg?v=025" alt="Polygon" width="45"/>
-    <img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg?v=025" alt="Binance" width="45"/>
-    <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=025" alt="Solana" width="45"/>
+    <img src="assets/bitcoin-btc-logo.svg" alt="Bitcoin" class="crypto-icon"/>
+    <img src="assets/ethereum-eth-logo.svg" alt="Ethereum" class="crypto-icon"/>
+    <img src="assets/polygon-matic-logo.svg" alt="Polygon" class="crypto-icon"/>
+    <img src="assets/binance-coin-bnb-logo.svg" alt="Binance" class="crypto-icon"/>
+    <img src="assets/solana-sol-logo.svg" alt="Solana" class="crypto-icon"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
