@@ -3,11 +3,11 @@
 <p align="center">
   <marquee direction="up" scrollamount="3" height="400">
     <!-- Web3 -->
-    <img src="assets/bitcoin-btc-logo.svg" alt="Bitcoin" class="crypto-icon"/>
-    <img src="assets/ethereum-eth-logo.svg" alt="Ethereum" class="crypto-icon"/>
-    <img src="assets/polygon-matic-logo.svg" alt="Polygon" class="crypto-icon"/>
-    <img src="assets/binance-coin-bnb-logo.svg" alt="Binance" class="crypto-icon"/>
-    <img src="assets/solana-sol-logo.svg" alt="Solana" class="crypto-icon"/>
+    <img src="assets/bitcoin-btc-logo.svg" alt="Bitcoin" class="crypto-icon" width="45"/>
+    <img src="assets/ethereum-eth-logo.svg" alt="Ethereum" class="crypto-icon" width="45"/>
+    <img src="assets/polygon-matic-logo.svg" alt="Polygon" class="crypto-icon" width="45"/>
+    <img src="assets/binance-coin-bnb-logo.svg" alt="Binance" class="crypto-icon" width="45"/>
+    <img src="assets/solana-sol-logo.svg" alt="Solana" class="crypto-icon" width="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
