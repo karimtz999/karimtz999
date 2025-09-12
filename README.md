@@ -38,3 +38,10 @@
     </p>
   </marquee>
 </p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karimtz999&theme=github_dark" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimtz999&layout=compact&theme=github_dark" height="200"/>
+</div>
