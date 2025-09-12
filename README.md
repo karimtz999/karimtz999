@@ -1,13 +1,13 @@
-<h2 align="center">⚡ Tech & Tools I Work With</h2>
+<h2 align="center">Tech & Tools I Work With</h2>
 
-<p align="center">
-  <marquee direction="up" scrollamount="3" height="400">
-    <!-- Web3 -->
-    <img src="assets/bitcoin-btc-logo.svg" alt="Bitcoin" class="crypto-icon" width="45"/>
-    <img src="assets/ethereum-eth-logo.svg" alt="Ethereum" class="crypto-icon" width="45"/>
-    <img src="assets/polygon-matic-logo.svg" alt="Polygon" class="crypto-icon" width="45"/>
-    <img src="assets/binance-coin-bnb-logo.svg" alt="Binance" class="crypto-icon" width="45"/>
-    <img src="assets/solana-sol-logo.svg" alt="Solana" class="crypto-icon" width="45"/>
+<div class="scroll-container">
+  <div class="scroll-content">
+    <!-- Web3 & Tools -->
+    <img src="assets/bitcoin-btc-logo.svg" width="45" alt="Bitcoin"/>
+    <img src="assets/ethereum-eth-logo.svg" width="45" alt="Ethereum"/>
+    <img src="assets/polygon-matic-logo.svg" width="45" alt="Polygon"/>
+    <img src="assets/binance-coin-bnb-logo.svg" width="45" alt="Binance"/>
+    <img src="assets/solana-sol-logo.svg" width="45" alt="Solana"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
@@ -25,7 +25,41 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/><br/>
-  </marquee>
-</p>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
+  </div>
+</div>
+
+<h2 align="center">Coins I’m Interested In</h2>
+
+<div class="scroll-container">
+  <div class="scroll-content">
+    <img src="assets/bitcoin-btc-logo.svg" width="45" alt="Bitcoin"/>
+    <img src="assets/ethereum-eth-logo.svg" width="45" alt="Ethereum"/>
+    <img src="assets/polygon-matic-logo.svg" width="45" alt="Polygon"/>
+    <img src="assets/binance-coin-bnb-logo.svg" width="45" alt="Binance"/>
+    <img src="assets/solana-sol-logo.svg" width="45" alt="Solana"/>
+  </div>
+</div>
+
+.scroll-container {
+  height: 400px; /* like your old marquee height */
+  overflow: hidden;
+  position: relative;
+}
+
+.scroll-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  animation: scrollUp 20s linear infinite;
+}
+
+.scroll-content img {
+  margin: 10px 0;
+}
+
+@keyframes scrollUp {
+  0%   { transform: translateY(100%); }
+  100% { transform: translateY(-100%); }
+}
 
