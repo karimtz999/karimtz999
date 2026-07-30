@@ -22,16 +22,20 @@
 
 <br clear="both">
 
-<div align="center">
-
-  <img
-    src="https://githubreadmelang.cybee.dpdns.org/api/top-langs?username=karimtz999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=true&size_weight=0&count_weight=1"/>
-
-  <img
-    src="https://streak-stats.demolab.com?user=karimtz999&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5"
-    height="200"/>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://githubreadmelang.cybee.dpdns.org/api/top-langs?username=karimtz999&locale=en&layout=compact&langs_count=20&theme=dracula&hide_border=true"
+        height="180" />
+    </td>
+    <td align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=karimtz999&theme=dracula&hide_border=true"
+        height="180" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
