@@ -232,14 +232,6 @@ The Rem Mark 1 solution redefines data privacy by moving away from traditional s
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) 
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
-###
-
-![Cyberbee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cyberbee-pro&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true)
-
-###
-
-
-
 
 # > sudo pacman -S pacmanAnimateSvg
 <div align="center">
@@ -250,9 +242,3 @@ The Rem Mark 1 solution redefines data privacy by moving away from traditional s
   </picture>
 </div>
 
-
-###
-
-
-
-###
