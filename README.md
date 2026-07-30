@@ -7,16 +7,6 @@
 
 ###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Cyberbee-pro&theme=aura" alt="cyberbee-pro" /></a> </p>
-
-###
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Cyberbee-pro.Cyberbee-pro&"  />
-</div>
-
-###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberbee-pro&label=Profile%20views&color=0e75b6&style=flat" alt="cyberbee-pro" /> </p>
-
 
 <!--- <p align="left"> <a href="https://twitter.com/mrcyberbee" target="blank"><img src="https://img.shields.io/twitter/follow/mrcyberbee?logo=twitter&style=for-the-badge" alt="mrcyberbee" /></a>
 </p> --->
