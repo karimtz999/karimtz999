@@ -40,12 +40,6 @@
 
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/29/d2/5c/29d25ccd5a0e64ac277f56d0701ef74c.gif"  />
-
-###
-
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://instagram.com/cyberbee_pro" target="_blank">
