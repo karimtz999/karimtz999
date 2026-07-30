@@ -20,11 +20,6 @@
 
 <!--- <p align="left"> <a href="https://twitter.com/mrcyberbee" target="blank"><img src="https://img.shields.io/twitter/follow/mrcyberbee?logo=twitter&style=for-the-badge" alt="mrcyberbee" /></a>
 </p> --->
-
-![Follow X](https://img.shields.io/badge/Follow%20@mrcyberbee-1DA1F2?style=for-the-badge&logo=X&logoColor=FFFFFF&labelColor=0052cc)
-
-- 🔭 I’m currently working in **GitHub-Community-SRM** 
-
 <!-- 🌱 I’m currently learning **kotlin,js and few js and py frameworks** -->
 
 <!-- 👯 I’m looking to collaborate on--> 
@@ -34,8 +29,6 @@
 - 💬 Ask me about **Arch,C,C++,Embeded Systems**
 
 <!-- 📫 How to reach me **cyb.shibrajdas@gmail.com** -->
-
-- ⚡ Fun fact **I am good at photography ;)**
 
 <br clear="both">
 
