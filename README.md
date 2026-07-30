@@ -1,9 +1,3 @@
-<a href="https://github.com/Cyberbee-pro/Cyberbee-pro">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyberbee-pro/Cyberbee-pro/main/dark_mode.svg">
-    <img alt="Elfa's GitHub Profile README" src="https://raw.githubusercontent.com/Cyberbee-pro/Cyberbee-pro/main/light_mode.svg">
-  </picture>
-</a>
 <a href="https://github.com/karimtz999/karimtz999">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
@@ -12,15 +6,6 @@
 </a>
 
 ###
-
-
-<!--- <p align="left"> <a href="https://twitter.com/mrcyberbee" target="blank"><img src="https://img.shields.io/twitter/follow/mrcyberbee?logo=twitter&style=for-the-badge" alt="mrcyberbee" /></a>
-</p> --->
-<!-- 🌱 I’m currently learning **kotlin,js and few js and py frameworks** -->
-
-<!-- 👯 I’m looking to collaborate on--> 
-
-<!-- - 🤝 I’m looking for help with **DBMS** -->
 
 - 💬 Ask me about **Arch,C,C++,Embeded Systems**
 
