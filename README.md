@@ -22,11 +22,14 @@
 
 <br clear="both">
 
-<div >
- <img src="https://githubreadmelang.cybee.dpdns.org/api/top-langs?username=Cyberbee-pro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=true&size_weight=0&count_weight=1"/>
-  
-  <img src="https://streak-stats.demolab.com?user=Cyberbee-pro&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
-  <p align="left">
+<div align="center">
+
+  <img
+    src="https://githubreadmelang.cybee.dpdns.org/api/top-langs?username=karimtz999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=true&size_weight=0&count_weight=1"/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=karimtz999&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5"
+    height="200"/>
 
 </div>
 
