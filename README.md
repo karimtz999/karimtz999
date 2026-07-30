@@ -185,8 +185,6 @@ The Rem Mark 1 solution redefines data privacy by moving away from traditional s
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Swift](https://img.shields.io/badge/swift-F54411?style=for-the-badge&logo=swift&logoColor=white) 
 ![Lua](https://img.shields.io/badge/Lua-000080.svg?style=for-the-badge&logo=Lua&logoColor=white) 
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
@@ -221,11 +219,6 @@ The Rem Mark 1 solution redefines data privacy by moving away from traditional s
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### 🎮 Mobile & Game Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-
 ### 📊 Data Science & AI
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -254,22 +247,9 @@ The Rem Mark 1 solution redefines data privacy by moving away from traditional s
 ![Cyberbee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cyberbee-pro&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true)
 
 ###
-## `> HONORS`
 
-<div align="center">
 
-| &nbsp; | Achievement | Venue | Year |
-|:---:|---|---|:---:|
-| 🏆 | **ICPC High Honor** | ICPC Asia Regional — Chennai | 2025 |
-| 🥇 | **Top 10 / 300+** | Ultron 9.0 Hackathon | 2026 |
-| 📜  | **Patent filed**| Rem : Mark 1 - Advanced Encryption Algorithm| Active| 
-| 🔬 | **Undergraduate Researcher** | SRMIST — Quantum Optimization | Active |
-| 🥉 | **2nd runnerup in National Quiz competition**|  Top 3 teams among Hundreds in the West Bengal regional leg of Union Bank’s flagship quiz. |2023|
 
-</div>
-
----
-###
 
 # > sudo pacman -S pacmanAnimateSvg
 <div align="center">
