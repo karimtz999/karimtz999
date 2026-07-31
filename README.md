@@ -4,11 +4,14 @@
     <img alt="karimtz999's GitHub Profile README" src="./light_mode.svg">
   </picture>
 </a>
-
-###
-
 - 💬 Ask me about **Arch,C,C++,Embeded Systems**
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/output/pacman-contribution-graph.svg" width="90%" />
+  </picture>
+</div>
 <!-- 📫 How to reach me **cyb.shibrajdas@gmail.com** -->
 
 <br clear="both">
@@ -230,13 +233,4 @@ The Rem Mark 1 solution redefines data privacy by moving away from traditional s
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) 
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
-
-# > sudo pacman -S pacmanAnimateSvg
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/output/pacman-contribution-graph.svg" width="90%" />
-  </picture>
-</div>
 
