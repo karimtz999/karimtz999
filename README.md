@@ -4,7 +4,10 @@
     <img alt="karimtz999's GitHub Profile README" src="./light_mode.svg">
   </picture>
 </a>
-- 💬 Ask me about **Arch,C,C++,Embeded Systems**
+<p> </p>
+<h2>Ask me about Arch,C,C++,Embeded Systems</h2>
+
+##
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnehalDas135/SnehalDas135/output/pacman-contribution-graph-dark.svg">
