@@ -6,6 +6,7 @@
 </a>
 <p> </p>
 <h2>Ask me about Arch,C,C++,Embeded Systems</h2>
+Become an engineer who can build AI-powered software and robotics products
 
 ##
 <div align="center">
